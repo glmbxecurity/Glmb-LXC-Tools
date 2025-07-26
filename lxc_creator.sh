@@ -81,4 +81,3 @@ done
 
 echo ""
 echo "🎉 Todos los contenedores han sido procesados."
-
