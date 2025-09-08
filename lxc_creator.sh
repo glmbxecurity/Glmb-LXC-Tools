@@ -1,5 +1,7 @@
 #!/bin/bash
-
+clear
+echo "🔧 LXC Container Creator"
+echo ""
 # Obtener y guardar combinaciones válidas de distro y release para amd64
 echo "⏳ Obteniendo lista de distribuciones disponibles (amd64)..."
 
